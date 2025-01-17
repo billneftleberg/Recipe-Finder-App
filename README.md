@@ -32,4 +32,4 @@ Recipe Finder is a simple web application that allows users to find recipes base
 
 ---
 
-Built with ❤️ by [Your Name].
+
